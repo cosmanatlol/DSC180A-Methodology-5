@@ -1,4 +1,4 @@
-#About Me
+#About Me 
 My name is Manat Rao (marao@ucsd.edu). My section is B08 with Rinne and Hungjeng. 
 **What is the most interesting topic covered in your domain this quarter?**
 The most interesting topic has been sentiment analaysis and how we can quantify the generals publics sentiment on a stock numerically and add it to a specific model
