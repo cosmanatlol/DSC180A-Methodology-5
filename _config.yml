@@ -1,4 +1,3 @@
-title: My Jekyll Page
-description: Welcome to my Jekyll site!
+title: DSC 180a Sample Website
 url: "https://cosmanatlol.github.io"
-theme: minima # Default theme
+theme: midnight
