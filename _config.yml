@@ -1,0 +1,5 @@
+title: My Jekyll Page
+description: Welcome to my Jekyll site!
+baseurl: "/repository-name" # Omit this line if the site is hosted at root
+url: "https://cosmanatlol.github.io"
+theme: minima # Default theme
